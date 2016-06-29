@@ -1,0 +1,3 @@
+Read Only by Desiree Desario
+desireedesario.com | @desireedesario
+A description of JSON Work SampleDesario_Desiree_JSON_WorkSample: -	By creating a “grab and set” template with a database, we can manipulate data.-	In this example, the professional eSport players are listed in a JSON format, or an array of objects. -	The entire dataset is being looped, and outputting a list of names in a div.-	With the HTML is JavaScript, we can add text within our data, such as shown in the .js folder, " (game account name) earns a total of " (total amount they received from game with the highest cash prize) "when playing " (the game they received the most money from).

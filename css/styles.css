@@ -1,0 +1,23 @@
+/* style.css 
+   Author: 
+   Date: 
+*/
+
+h1{
+	font-family: sans-serif;
+	color: #3F1C6E;
+}
+
+#professionals {
+	border: 4px solid #7E4CFF;
+	background: white;
+	width: 500px;
+	padding: 10px;
+}
+
+.prodata {
+	border: 2px solid #3B39E8;
+	padding: 10px;
+	margin: 10px;
+
+}
